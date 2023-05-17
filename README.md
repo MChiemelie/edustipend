@@ -6,9 +6,7 @@ This Node.js service provides API endpoints for retrieving comments and posts da
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
-   ```
-   Replace `<repository-url>` with the URL of your GitHub repository.
+   git clone https://github.com/MChiemelie/edustipend.git
 
 2. Navigate to the project directory:
    ```bash
@@ -54,7 +52,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-Make sure to replace `<repository-url>` in the instructions with the actual URL of your GitHub repository.
-
-In the README file, I have provided sections for installation, usage, contributing, and license. Feel free to add or modify these sections based on your specific needs.
